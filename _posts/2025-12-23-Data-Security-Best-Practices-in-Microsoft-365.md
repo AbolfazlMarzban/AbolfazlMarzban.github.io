@@ -4,7 +4,11 @@ title: "Data Security Best Practices in Microsoft 365: Ultimate Guide to
   Using Purview and Defender Effectively"
 ---
 
-# Introduction: Why Data Security Matters in Microsoft 365
+# Data Security Best Practices in Microsoft 365: Ultimate Guide to Using Purview and Defender Effectively
+
+Comprehensive Strategies for Organizations
+
+## Introduction: Why Data Security Matters in Microsoft 365
 
 Most organizations using Microsoft 365 assume their data is secure by
 default.\
