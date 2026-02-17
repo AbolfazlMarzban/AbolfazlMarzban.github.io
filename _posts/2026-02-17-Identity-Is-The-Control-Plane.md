@@ -1,7 +1,7 @@
 
 # Identity Is the Control Plane: Why Most Cloud Security Strategies Fail
 
-## Understanding the Critical Role of Identity in Cloud Security and Building Resilient Cloud Infrastructure
+Understanding the Critical Role of Identity in Cloud Security and Building Resilient Cloud Infrastructure
 
 ## Introduction
 
