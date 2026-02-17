@@ -67,6 +67,7 @@ Identity failures have played a central role in major incidents:
 - **Credential Leaks via GitHub**: Developers accidentally published credentials in public repositories, leading to unauthorized access to cloud resources. This highlights the importance of protecting machine identities and automating credential management.
 
 These incidents demonstrate how identity-related failures—in configuration, privilege management, and monitoring—can lead to significant data loss and reputational damage.
+
 ---
 
 ## Best Practices for Cloud Identity Security
