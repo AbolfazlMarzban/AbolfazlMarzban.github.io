@@ -58,7 +58,7 @@ Cloud security is complex, and humans are prone to mistakes. Misconfigurations, 
 
 ---
 
-## Case Studies and Real-World Breaches
+## Case Studies and Real-World Breaches:
 
 Identity failures have played a central role in major incidents:
 
